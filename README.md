@@ -2,7 +2,7 @@
 
 Dashboard desenvolvido no **Power BI** para análise de dados logísticos de uma operação de entregas, com foco em performance por região, canal, equipe e status de entrega.
 
-![Dashboard de Logística](./imagem/dashboard.png)
+![Dashboard de Logística](./Lab%2006%20-%20Logistíca/imagem/Dashboard.png)
 
 ---
 
@@ -48,20 +48,35 @@ O dashboard apresenta os seguintes indicadores e gráficos:
 - **Microsoft Power BI** — Desenvolvimento do dashboard
 - **Power Query** — Tratamento e modelagem dos dados
 - **DAX** — Criação de medidas e cálculos
+- **Excel** — Base de dados (`dataset.xlsx`)
 
 ---
 
 ## 📁 Estrutura do Projeto
 
 ```
-Lab 06 - Logística/
+Dashboard-Logistica/
 │
-├── imagem/
-│   └── dashboard.png
+├── Lab 06 - Logistíca/
+│   ├── imagem/
+│   │   └── Dashboard.png
+│   ├── Lab 06 - Logistica.pbix
+│   ├── Mini-Projeto4-Parte1.pbix
+│   └── dataset.xlsx
 │
-├── README.md
-└── (arquivo .pbix do Power BI)
+└── README.md
 ```
+
+---
+
+## 🚀 Como Visualizar
+
+1. Faça o clone do repositório:
+   ```bash
+   git clone https://github.com/shima2803/Dashboard-Logistica.git
+   ```
+2. Abra o arquivo `Lab 06 - Logistica.pbix` no **Power BI Desktop**
+3. Explore as visualizações e interaja com os filtros
 
 ---
 
